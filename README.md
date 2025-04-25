@@ -20,6 +20,8 @@
 - Developed a **Netflix-style Movie UI** with React + TMDB API
 - Created a website for **I-HUB Chhattisgarh** (Freelance)
 - Leading a **Campus Navigation System** project using Node.js, Flutter Maps & PostgreSQL
+- Discovering a **Fandom Website for JJK Anime*** creating with Node.js
+- Thinking of **Building a Portfolio** for myself
 
 ---
 
