@@ -80,9 +80,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudozen&theme=radical" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudozen" alt="GitHub Lang used" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/sudozen/github-readme-stats)
+
 ---
 
 <h3 align="left">🧑‍💻 About Me</h3>
