@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Dewangan</h1>
-<h3 align="center">🚀 Full Stack Developer | OSS Enthusiast | Startup Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | UI/UX Designer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudozen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -12,16 +12,15 @@
 🧠 Currently exploring:
 - WebRTC and WebSocket for P2P & real-time communication
 - Scalable full-stack systems (MERN + PostgreSQL + Redis)
-- Maps & spatial navigation (PostGIS, Flutter Maps)
+- Application Development and usability of android and ios apps
+- UI/UX Research as a hobbie
 - System design and architecture for startups
 
 💼 Recently:
-- Built a **Shareware P2P File Transfer System** using WebRTC + WebSocket
+- Build a **Shareware P2P File Transfer System** using WebRTC + WebSocket
 - Developed a **Netflix-style Movie UI** with React + TMDB API
-- Created a website for **I-HUB Chhattisgarh** (Freelance)
-- Leading a **Campus Navigation System** project using Node.js, Flutter Maps & PostgreSQL
-- Discovering a **Fandom Website for JJK Anime** creating with Node.js
 - Thinking of **Building a Portfolio** for myself
+- Buiding Apps in React Native 
 
 ---
 
@@ -81,15 +80,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudozen&theme=radical" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudozen" alt="GitHub Lang used" />
+</p>
 ---
 
 <h3 align="left">🧑‍💻 About Me</h3>
 
 - 🎓 Final-year B.Tech CSE student at GEC Raipur  
-- 🧑‍💻 Freelance Dev | OSS Contributor  
-- 🧭 Club Leader | Startup Enthusiast  
-- 🧠 Learning DevOps, Kafka, Kubernetes  
+- 🧑‍💻 Freelance Dev   
+- 🧭 Club Leader  
+- 🧠 Learning DevOps  
 - 🎯 2025 Goal: Land an SDE Role & Contribute to Open Source
 
 ---
